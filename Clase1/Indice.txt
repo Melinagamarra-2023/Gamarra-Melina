@@ -2,4 +2,4 @@ Capítulo 1: Introducción a Git
 Capítulo 2: Configuración del repositorio
 Capítulo 3: Gestión de ramas
 Capítulo 4: Introducción a comandos
-Capítulo 5: Conceptos avanzados
+
