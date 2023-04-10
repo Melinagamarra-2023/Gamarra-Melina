@@ -1,1 +1,2 @@
-Bibliografía oficial de GIT.
+Git Oficial.
+Utilizado por DH
