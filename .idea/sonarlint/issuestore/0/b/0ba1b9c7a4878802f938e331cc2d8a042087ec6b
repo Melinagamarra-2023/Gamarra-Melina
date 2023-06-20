@@ -1,0 +1,11 @@
+
+h
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(°€àâ8²ºØÎ1
+W
+java:S1854"5Remove this useless assignment to local variable "m".(ªİ÷Ãûÿÿÿÿ8õ¼ØÎ1
+]	java:S125"<This block of commented-out lines of code should be removed.(¤š«ñşÿÿÿÿ8”½ØÎ1
+]	java:S125"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8•½ØÎ1
+H
+java:S1481"&Remove this unused "m" local variable.(ÂÓãŞúÿÿÿÿ8À½ØÎ1
+>	java:S131""Add a default case to this switch.(°€àâ8Ç½ØÎ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Îûòê8Ñ½ØÎ1
